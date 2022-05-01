@@ -1,0 +1,36 @@
+*{ margin:"0"; padding:"0"; box-sizing:"border-box"}
+body{background-color:black; color:white; font-family:"Poppins",sans-serif; }
+.navbar{position:absolute;top:0;width:100%; display:flex;justify-content:space-between; padding:3% 5%;z-index:10}
+.navbar_netflix{width:125px;height:100%}
+.vamsi{display:flex; gap:10px;}
+.logo{width:100%;height:100%}
+.hi{background: transparent ;border: none; color:white;}
+.language{border:1px solid white; padding:0.4rem;border-radius:4px;backgrond:rgba(0,0,0,0.4)}
+.signin{ border:red; background-color:red;color:white ;padding:0.25rem 0.5rem; border-radius:4px; height:35px; width:100px }
+.hemanth{width:100%; height:100%}
+.saami{position:absolute;top:30%; display:flex;flex-direction:column;left:30%;}
+.title{text-align:center;font-weight:510;font-size:2.9rem;  }
+.subtitle{text-align:center;font-weight:450;font-size:1.5rem}
+.para{text-align:center;font-weight:400;font-size:1rem}
+.email{width:450px;height:60px;color:black ;padding:0.25rem 0.5rem ;border-radius:3px;border-color:white;}
+.start{font-size:large;width:170px;height:60px;background-color:red;border:1px solid red;color:white}
+.card1{border-top:8px rgb(69,69,69); padding:50px}
+.card2{border-top:8px rgb(69,69,69); padding:50px}
+.card3{border-top:8px rgb(69,69,69); padding:50px}
+.card1{position:relative;display:inline-grid;grid-template-columns:50% 40%;text-align:left ;align-items:center;padding:25px 45px 5opx}
+.d1{padding-left:80px}
+.video1{position:relative;width=150% height=54%; grid-column:2/2 ;grid-row:1/2; z-index:-1}
+.feel{grid-column:2/2 ;grid-row:1/2}
+.rahul h1{font-size:3rem;padding:1rem ;padding-left:0 ;font-weight:525}
+.rahul h3{font-size:1.4rem;line-height:2rem; font-weight:400}
+.card2{position:relative;display:inline-grid;grid-template-columns:40% 50%;text-align:left ;align-items:center;padding:25px 45px 5opx}
+.d2{padding-left:20%}
+.card3{position:relative;display:inline-grid;grid-template-columns:50% 40%;text-align:left ;align-items:center;padding:25px 45px 5opx}
+.d3{padding-left:80px;padding-right:20px}
+.love{width:110%;grid-column:2/2 ;grid-row:1/2}
+.video2{position:relative;top:-87px;left:125px;width:55%;height:78%;grid-column:2/2 ;grid-row:1/2 ;z-index:-1;}
+.iloveyou{margin-bottom:1.5rem;padding-left:50px}
+.sorry{display:grid;grid-template-columns:repeat(4,1fr);grid-gap:2rem; padding-left:50px;}
+.thanq li{line-height=1.9}
+.thanq{color:grey}
+
